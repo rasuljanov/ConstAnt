@@ -2,7 +2,7 @@
 
 ConstAnt is a local assistant for exploring construction-site imagery, recordings, and particulate matter (PM) measurements. It uses Qwen3-VL-4B-Instruct for multimodal questions and Python for calculations on CSV data. The app combines a Vue 3 chat interface with a FastAPI backend.
 
-## What you can do
+## About the platform
 
 | Input | How ConstAnt uses it |
 | --- | --- |
@@ -12,6 +12,20 @@ ConstAnt is a local assistant for exploring construction-site imagery, recording
 | Text and logs | Ask questions about the source contents and summarize findings. |
 
 The chat sidebar keeps past conversations. Use **+** to upload a file or attach one from Resources. A follow-up can reuse evidence from the same chat. The interface supports English, Uzbek, and Korean.
+
+### Default workspace
+
+![ConstAnt’s default new chat with the sidebar, welcome panel, and message composer](docs/screenshots/default-workspace.jpg)
+
+### Image query
+
+![ConstAnt answers a question about the equipment and activity in an attached construction photo](docs/screenshots/image-query.jpg)
+
+### Video query
+
+![ConstAnt summarizes excavation activity in an attached video using timestamped frames](docs/screenshots/video-query.jpg)
+
+The image example uses a [National Park Service photo](https://commons.wikimedia.org/wiki/File:An_excavator_empties_its_bucket_into_a_waiting_dump_truck._%288f14fda3-31b2-4bc4-872d-dd0bfdcabc95%29.JPG). The video example uses [bellergy’s aerial footage](https://commons.wikimedia.org/wiki/File:Miejscu-pracy-koparka-budowlanych-3741.webm), released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Run locally
 

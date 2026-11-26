@@ -15,15 +15,15 @@ The chat sidebar keeps past conversations. Use **+** to upload a file or attach 
 
 ### Default workspace
 
-![ConstAnt’s default new chat with the sidebar, welcome panel, and message composer](docs/screenshots/default-workspace.jpg)
+![ConstAnt’s default new chat in dark mode with the sidebar, welcome panel, and message composer](docs/screenshots/default-workspace.jpg)
 
 ### Image query
 
-![ConstAnt answers a question about the equipment and activity in an attached construction photo](docs/screenshots/image-query.jpg)
+![ConstAnt answers a question about the equipment and activity in an attached construction photo in light mode](docs/screenshots/image-query.jpg)
 
 ### Video query
 
-![ConstAnt summarizes excavation activity in an attached video using timestamped frames](docs/screenshots/video-query.jpg)
+![ConstAnt summarizes excavation activity in an attached video using timestamped frames in dark mode](docs/screenshots/video-query.jpg)
 
 The image example uses a [National Park Service photo](https://commons.wikimedia.org/wiki/File:An_excavator_empties_its_bucket_into_a_waiting_dump_truck._%288f14fda3-31b2-4bc4-872d-dd0bfdcabc95%29.JPG). The video example uses [bellergy’s aerial footage](https://commons.wikimedia.org/wiki/File:Miejscu-pracy-koparka-budowlanych-3741.webm), released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 

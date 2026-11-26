@@ -1,0 +1,1 @@
+run_id,cohort_id,task,model_variant,adapter_id,retrieval_run_id,seed,n_examples,n_claims_reviewed,qa_accuracy,count_mae,grounded_claim_rate,latency_p50_s,latency_p95_s,peak_vram_gib,output_tokens_per_s,status,details_file

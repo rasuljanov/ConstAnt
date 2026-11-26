@@ -1,0 +1,12 @@
+/.venv/
+/data/
+/frontend/node_modules/
+/frontend/dist/
+/notes/baselines/
+/notes/reports/vllm-validation.*
+/notes/reports/vllm-environment.txt
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*

@@ -1,0 +1,7 @@
+-r requirements.txt
+torch>=2.6,<3
+torchvision>=0.21,<1
+transformers>=4.57.1,<5
+accelerate>=1.2,<2
+bitsandbytes>=0.46,<1
+hf_xet>=1.1,<2
